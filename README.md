@@ -1,2 +1,2 @@
 # meuprimeirosite1FturmaA
-https://github.com/ProjetosCaina/meuprimeirosite1FturmaA.git
+https://ProjetosCaina.github.io/meuprimeirosite1FturmaA
