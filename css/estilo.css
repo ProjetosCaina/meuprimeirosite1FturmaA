@@ -51,3 +51,23 @@ footer{
     background-color: black;
 }
 
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: grey
+    text-decoration: none;
+}
+    
+
+a:hover{
+    color: lightblue
+ 
+}
+
+a:active{
+    color: black
+}
+
